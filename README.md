@@ -5,3 +5,6 @@ The weapon basically tracks whatever is coming with its built in radar, and shoo
 The approach I took is by using two motors that control the yaw and the tilt angle, so basically it can point to anything above its base.
 
 I decided to strap a camera on the arm so
+
+
+Video : https://youtube.com/shorts/Ms6ngElHTF0?feature=share
